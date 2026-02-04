@@ -1,0 +1,21 @@
+# Basic Terminal, Git & GitHub Commands
+
+## Terminal / Git Bash Commands
+mkdir  - create a new directory (folder)
+touch  - create a new file inside a folder
+cd     - change directory
+ls     - list files and folders
+rmdir  - remove an empty directory
+
+## Git & GitHub Commands
+git init       - initialize a git repository
+git add .      - add all files to staging area
+git commit     - save changes
+git push       - push code to GitHub
+
+## Basic Git Workflow
+git init
+git add .
+git commit -m "initial commit"
+git remote add origin "github link"
+git push origin main
